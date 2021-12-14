@@ -1,3 +1,9 @@
+walinuxagent (2.2.46-0ubuntu1.1) focal; urgency=medium
+
+  * Build on arm64. (LP: #1954678)
+
+ -- Brian Murray <brian@ubuntu.com>  Tue, 14 Dec 2021 13:43:33 -0800
+
 walinuxagent (2.2.46-0ubuntu1) focal; urgency=medium
 
   * New upstream version 2.2.46 (LP: #1874074)
