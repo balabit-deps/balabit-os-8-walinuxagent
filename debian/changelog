@@ -1,3 +1,10 @@
+walinuxagent (2.2.46-0ubuntu1.2) focal; urgency=medium
+
+  * Add patch to fix handling of gen2 disks
+    w/ udev rules. (LP: #1971141)
+
+ -- Utkarsh Gupta <utkarsh@ubuntu.com>  Thu, 12 May 2022 10:40:33 +0530
+
 walinuxagent (2.2.46-0ubuntu1.1) focal; urgency=medium
 
   * Build on arm64. (LP: #1954678)
